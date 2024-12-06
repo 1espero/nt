@@ -607,7 +607,7 @@ body {
     line-height: 1.6;
     margin: 0;
     padding: 0;
-    background-color: #dae6dd; /* Green background */
+    background-color: #f7faf8; /* Green background */
     color: #ebe4e4;
     transition: color 0.3s ease; /* Smooth color transition */
 }
